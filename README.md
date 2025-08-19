@@ -35,13 +35,14 @@ macOS ❌ Not supported (blocked by OS-level restrictions)
 
 ## Future
 This is the LIGHT version of Moros.
-A full stylometry obfuscator could also adjust:
-
+The full version or moros will edit
 Sentence structure
-
 Punctuation variation
-
 Grammar (active/passive)
-
 Sentence length and rhythm
+
+
+## Lastly
+I ensist you make edits to this tool and its dictionary since its pretty shit 
+I'll probably fix it in future versions (maybe) but until then tweak my version to meet your needs and desired typing style 
 
